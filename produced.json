@@ -1,0 +1,14 @@
+[
+	{
+		"DB_DATE": "2023-10-15T14:48:00.000Z",
+		"DB_CASES": 20,
+		"DB_RACKS": 2,
+		"DB_OTHER": "LOREM IPSUM"
+	},
+	{
+		"DB_DATE": "2023-10-16T14:48:00.000Z",
+		"DB_CASES": 10,
+		"DB_RACKS": 1,
+		"DB_OTHER": "LOREM IPSUM"
+	}
+]

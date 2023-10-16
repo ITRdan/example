@@ -1,0 +1,18 @@
+[
+	{
+		"DB_DATE": "2023-10-15T14:48:00.000Z",
+		"DB_PRODUCED": 20,
+		"DB_TRADED": 20,
+		"DB_CANCELED": 0,
+		"DB_RACKS": 2,
+		"DB_OTHER": "LOREM IPSUM"
+	},
+	{
+		"DB_DATE": "2023-10-16T14:48:00.000Z",
+		"DB_PRODUCED": 10,
+		"DB_TRADED": 10,
+		"DB_CANCELED": 0,
+		"DB_RACKS": 1,
+		"DB_OTHER": "LOREM IPSUM"
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"DB_COMPANY": "Arneg Mexico",
+		"DB_CUSTOMER": "EU Company S.R.L.",
+		"DB_FLAG_INTERCOMPANY": 1
+	},
+	{
+		"DB_COMPANY": "Arneg Mexico",
+		"DB_CUSTOMER": "US Company Inc.",
+		"DB_FLAG_INTERCOMPANY": 0
+	}
+]

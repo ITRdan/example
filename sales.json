@@ -1,50 +1,50 @@
 [
 	{
-		"name": "Jan",
-		"value": 240000
+		"DB_MONTH": "Jan",
+		"DB_VALUE": 240000
 	},
 	{
-		"name": "Feb",
-		"value": 320000
+		"DB_MONTH": "Feb",
+		"DB_VALUE": 320000
 	},
 	{
-		"name": "Mar",
-		"value": 475000
+		"DB_MONTH": "Mar",
+		"DB_VALUE": 475000
 	},
 	{
-		"name": "Apr",
-		"value": 420000
+		"DB_MONTH": "Apr",
+		"DB_VALUE": 420000
 	},
 	{
-		"name": "May",
-		"value": 670000
+		"DB_MONTH": "May",
+		"DB_VALUE": 670000
 	},
 	{
-		"name": "Jun",
-		"value": 780000
+		"DB_MONTH": "Jun",
+		"DB_VALUE": 780000
 	},
 	{
-		"name": "Jul",
-		"value": 1400000
+		"DB_MONTH": "Jul",
+		"DB_VALUE": 1400000
 	},
 	{
-		"name": "Aug",
-		"value": 1200000
+		"DB_MONTH": "Aug",
+		"DB_VALUE": 1200000
 	},
 	{
-		"name": "Sep",
-		"value": 1145000
+		"DB_MONTH": "Sep",
+		"DB_VALUE": 1145000
 	},
 	{
-		"name": "Oct",
-		"value": 1900000
+		"DB_MONTH": "Oct",
+		"DB_VALUE": 1900000
 	},
 	{
-		"name": "Nov",
-		"value": 0
+		"DB_MONTH": "Nov",
+		"DB_VALUE": 0
 	},
 	{
-		"name": "Dec",
-		"value": 0
+		"DB_MONTH": "Dec",
+		"DB_VALUE": 0
 	}
 ]
